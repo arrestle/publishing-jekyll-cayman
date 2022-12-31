@@ -6,11 +6,7 @@
 | [About Us](aboutus.md) |
 
 
-### Markdown
-
-# Header One
-## Header Two
-### Header Three
+![Logan](images/LoganLakeStick.jpg)
 
 [Link to Google](https://www.google.com)
 [Linked In]({{site.linkedin}})
