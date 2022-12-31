@@ -1,12 +1,11 @@
 ---
 ---
-
-$header-bg-color: red;
+$header-bg-color: purple;
 
 @import "{{ site.theme }}";
 .main-content h1 {
     color: purple
 }
 b, strong {
-    color: red
+    color: rgb(109, 22, 22)
 }
