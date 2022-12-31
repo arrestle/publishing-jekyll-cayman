@@ -20,4 +20,4 @@
 * *italic*
 * <u>underline</u>
 
-{% include disc.html %}
+{% include_relative inc/disc.html %}

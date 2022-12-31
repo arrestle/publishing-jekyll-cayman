@@ -1,4 +1,4 @@
 # About us
 | [Home](index.md) |
 
-{% include disc.html %}
+{% include_relative inc/disc.html %}
