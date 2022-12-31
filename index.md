@@ -14,3 +14,8 @@
 
 [Link to Google](https://www.google.com)
 [Linked In]({{site.linkedin}})
+
+
+* **bold** 
+* *italic*
+* <u>underline</u>

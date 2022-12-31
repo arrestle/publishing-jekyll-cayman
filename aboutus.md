@@ -1,2 +1,2 @@
-### About us
+# About us
 | [Home](index.md) |
