@@ -3,3 +3,5 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: OpenFood in Cayman
 description: We are publishing in jekyll with the cayman theme
+show_downloads: true
+linkedin: "https://www.linkedin.com/in/andrea-restle-lay/"
